@@ -12,7 +12,7 @@ A Python-based web scraper that extracts content from websites and creates vecto
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - OpenAI API key
 
 ## Installation
