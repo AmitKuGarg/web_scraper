@@ -27,10 +27,12 @@ cd web_scraper
 pip install -r requirements.txt
 ```
 
-3. Set up your OpenAI API key:
+3. Set up your environment variables:
 ```bash
-export OPENAI_API_KEY='your-api-key-here'
+# Create a .env file and add your OpenAI API key
+echo "OPENAI_API_KEY=your-api-key-here" > .env
 ```
+
 
 ## Usage
 
