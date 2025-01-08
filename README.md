@@ -19,8 +19,7 @@ A Python-based web scraper that extracts content from websites and creates vecto
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/web-scraper-embeddings.git
-cd web-scraper-embeddings
+cd web_scraper
 ```
 
 2. Install required dependencies:
